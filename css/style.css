@@ -25,9 +25,15 @@
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
+.img{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+}
 img{
   width: 20px;
-  padding-top: 30px;
 }
 
 span{
