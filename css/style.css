@@ -27,7 +27,9 @@
 }
 img{
   width: 20px;
+  padding-top: 30px;
 }
+
 span{
   color: var(--color-blue);
 }

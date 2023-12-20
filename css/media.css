@@ -1,23 +1,12 @@
 @media screen and (max-width: 450px) {
-   .heading{
+   .text-large{
     width: max-content;
+    margin: auto;
    }
   .logo-facebook,.logo-google,.logo-apple{
     left: 10%;
   }
-
+  p{
+    padding-top: 10px;
+  }
 }
-/* @media screen and (max-width: 992px){
-    
-
-}
-@media screen and (max-width: 768px){
-   
-}
-@media screen and (min-width: 769px) and (max-width: 992px){
-   
-    
-}
-@media screen and (min-width: 769px) and (max-width: 1200px){
-   
-} */
