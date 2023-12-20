@@ -1,0 +1,23 @@
+@media screen and (max-width: 450px) {
+   .heading{
+    width: max-content;
+   }
+  .logo-facebook,.logo-google,.logo-apple{
+    left: 10%;
+  }
+
+}
+/* @media screen and (max-width: 992px){
+    
+
+}
+@media screen and (max-width: 768px){
+   
+}
+@media screen and (min-width: 769px) and (max-width: 992px){
+   
+    
+}
+@media screen and (min-width: 769px) and (max-width: 1200px){
+   
+} */
